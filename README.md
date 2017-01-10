@@ -1,2 +1,4 @@
 # sublime-snazzy
-Sublime Theme with Bright Colors Inspired by Hyper Snazzy
+Sublime theme with bright colors based on [Hyper Snazzy](https://github.com/sindresorhus/hyper-snazzy) by [sindresorhus](https://github.com/sindresorhus)
+
+![](screenshot.png?raw=true)
